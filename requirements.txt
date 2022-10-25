@@ -1,0 +1,7 @@
+pymilvus
+towhee
+towhee.models
+pillow
+ipython
+gradio
+opencv-python
