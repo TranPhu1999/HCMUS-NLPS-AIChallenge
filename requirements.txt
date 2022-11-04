@@ -1,0 +1,10 @@
+pymilvus
+towhee
+towhee.models
+pillow
+ipython
+gradio
+opencv-python
+transformers
+sentencepiece
+tokenizers
